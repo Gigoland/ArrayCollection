@@ -1,6 +1,7 @@
 <?php
 
-class Countries {
+class Countries
+{
     public function getCountries(): array
     {
         return [
